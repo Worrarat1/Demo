@@ -33,6 +33,3 @@ api.add_route('/change',commit)
 
 api.req_options.auto_parse_form_urlencoded = True
 api.add_route('/',login)
-
-"test"
-"new branch"
